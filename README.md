@@ -12,13 +12,13 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 ---
 
 ## 📁 Folder Structure
-📁 PowerBI-Sales-Dashboard/
-│
-├── 📄 Sales_Dashboard.pbix # Main Power BI file
-├── 📁 Data/ # Base data sources
-├── 📁 Measures/ # All DAX measures in CSV
-├── 📁 Images/ # Dashboard screenshots
-└── 📄 README.md # Project documentation
+- 📁 PowerBI-Sales-Dashboard/
+- │
+- ├── 📄 Sales_Dashboard.pbix # Main Power BI file
+- ├── 📁 Data/ # Base data sources
+- ├── 📁 Measures/ # All DAX measures in CSV
+- ├── 📁 Images/ # Dashboard screenshots
+- └── 📄 README.md # Project documentation
 
 ---
 
@@ -50,4 +50,4 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 ## 💡 How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/ankityadav-info/PowerBI-Sales-Dashboard.git
