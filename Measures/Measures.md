@@ -39,5 +39,5 @@
 | Date of Last Purchase               | `LASTDATE('Sales Files'[Date])` |
 | Days Since Last Purchase            | `VALUE(CALCULATE(MAX('Sales Files'[Date]), ALL('Sales Files')) - [Date of Last Purchase])` |
 | Lost Customers                      | `CALCULATE(DISTINCTCOUNT('Sales Files'[Store Code]), FILTER('Sales Files', [Days Since Last Purchase] > 30))` |
-| Sum of Sort Order                    | `SUM('PackSizeMaster'[Sort Order])` |
 | ShowValueForDates                   | ```VAR LastDateWithData = CALCULATE(MAX('Sales Files'[Date]), ALL('Sales Files')) VAR FirstDateVisible = MIN('Calendar'[Date]) VAR Result = FirstDateVisible <= LastDateWithData RETURN Result``` |
+
