@@ -47,7 +47,23 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 
 ---
 
-## 💡 How to Use
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/ankityadav-info/PowerBI-Sales-Dashboard.git
+### 🧭 Steps to Use the Dashboard
+
+#### 1. Open the Power BI file
+- Launch **Power BI Desktop**
+- Open the file `Sales_Dashboard.pbix`
+
+#### 2. Connect base data
+- If Power BI asks for data connections,  
+  point them to the `/Data` folder where your Excel/CSV files are stored.
+
+#### 3. Explore & modify
+- Interact with visuals, slicers, and KPIs  
+- Modify measures or visuals as per your analysis needs  
+
+---
+
+
+### 📬 Contact 
+🔗 **LinkedIn:** [Ankit Yadav]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankityadav-info/))  
+🐙 **GitHub:** [@ankityadav-info](https://github.com/ankityadav-info)
