@@ -7,7 +7,7 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Images/Dashboard_Preview.jpg)
+![Dashboard Preview](Images/Dashboard%20screenshots.jpg)
 
 ---
 
