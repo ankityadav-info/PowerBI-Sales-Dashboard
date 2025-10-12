@@ -65,5 +65,5 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 
 
 ### 📬 Contact 
-🔗 **LinkedIn:** [Ankit Yadav]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankityadav-info/))  
+🔗 **LinkedIn:** [Ankit Yadav](https://www.linkedin.com/in/ankityadav-info/)  
 🐙 **GitHub:** [@ankityadav-info](https://github.com/ankityadav-info)
