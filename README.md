@@ -13,12 +13,12 @@ It includes the **Dashboard (.pbix) file**, **base data**, and **all DAX measure
 
 ## 📁 Folder Structure
 - 📁 PowerBI-Sales-Dashboard/
-- │
-- ├── 📄 Sales_Dashboard.pbix # Main Power BI file
-- ├── 📁 Data/ # Base data sources
-- ├── 📁 Measures/ # All DAX measures in CSV
-- ├── 📁 Images/ # Dashboard screenshots
-- └── 📄 README.md # Project documentation
+<br /> │
+<br /> ├── 📄 Sales_Dashboard.pbix # Main Power BI file
+<br /> ├── 📁 Data/ # Base data sources
+<br /> ├── 📁 Measures/ # All DAX measures in CSV
+<br /> ├── 📁 Images/ # Dashboard screenshots
+<br /> └── 📄 README.md # Project documentation
 
 ---
 
